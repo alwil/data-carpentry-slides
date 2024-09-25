@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with R(Studio)"
-date: "2024-06-20"
+date: "2024-09-30"
 ---
 
 ```{r}
