@@ -4,6 +4,7 @@ format:
     navigation-mode: vertical
     theme: dc-ldev.scss
     df-print: paged
+    self-contained: true
 execute: 
   warning: false
   echo: true
