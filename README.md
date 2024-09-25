@@ -4,9 +4,9 @@ Here you will find the source code and rendered slides for the
 [Data Carpentry with R for Social Sciences and Humanities workshop](https://ubvu.github.io/2024-06-20-ldev-amsterdam/)
 on 20-21 June, hosted by the VU.
 
-- Starting with Data ([slides](https://bbartholdy.github.io/data-carpentry-slides/02_start-data.html), [source file download](/02_start-data.qmd))
-- Data Visualisation with ggplot2 ([slides](https://bbartholdy.github.io/data-carpentry-slides/04_data-viz.html), [source file download](/04_data-viz.qmd))
-- Getting Started with Quarto ([slides](https://bbartholdy.github.io/data-carpentry-slides/05_quarto.html), [source file download](/05_quarto.qmd))
+- Starting with Data ([slides](https://alwil.github.io/data-carpentry-slides/02_start-data.html), [source file download](/02_start-data.qmd))
+- Data Visualisation with ggplot2 ([slides](https://alwil.github.io/data-carpentry-slides/04_data-viz.html), [source file download](/04_data-viz.qmd))
+- Getting Started with Quarto ([slides](https://alwil.github.io/data-carpentry-slides/05_quarto.html), [source file download](/05_quarto.qmd))
 
 ## Usage
 
