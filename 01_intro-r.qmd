@@ -68,15 +68,28 @@ R is integrated into RStudio, so you never actually have to open R[, which is a 
 
 
 ## Basics of R {.center}
-
 R is a language spoken by the R software
 
-Software can be very 'dumb'
+. . .
+
+Software is not good at interpreting things
+
+. . .
+
 
 So we need to learn it's language to communicate EXACTLY
 what we want
 
-And like learning any language, this requires practice!
+. . .
+
+
+But unlike with a natural language, knowing a few R 'words' and 'phrases' 
+can take us really far!
+
+. . .
+
+ 
+ It's a beginning of a journey! `r emo::ji("luggage")`
 
 ---
 
@@ -113,6 +126,41 @@ Things to look forward to:
 
 ![Artwork by [@allison_horst](https://twitter.com/allison_horst)](img/rmarkdown_wizards.png)
 
+
+## Naming conventions
+
+Characters, numbers, `_` and `.` allowed
+
+. . .
+
+
+Names cannot start with a number
+
+. . .
+
+
+Use of  `.` not recommended
+
+. . .
+
+
+Some names not allowed (e.g. `if`, `else`)
+
+. . .
+
+
+Others allowed, but not recommended (e.g. `weights`, `df`, `mean`)
+
+. . .
+
+
+Case sensitive: `Age` is different from `age`
+
+. . .
+
+
+Stick to the same convention
+    
 
 ## Exercise 1
 
@@ -153,6 +201,32 @@ Find the appropriate function to round `1.624` down to the nearest integer.
 ```{r}
 floor(1.624)
 ```
+
+## Data Types 
+
+**numeric** (e.g. `3.14`) 
+
+. . .
+
+**character** (e.g. `'car'`)
+
+. . .
+
+**integer** (e.g. `50L`)
+
+. . .
+
+
+**logical** ( `TRUE` or `FALSE`)
+
+. . .
+
+
+**complex**
+
+
+**raw**
+
 
 
 ## Exercise 3 {.smaller .scrollable}
