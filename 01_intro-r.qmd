@@ -1,5 +1,6 @@
 ---
 title: "Getting Started with R(Studio)"
+
 date: "2024-09-30"
 ---
 
@@ -23,6 +24,10 @@ percent_items <- interviews_plotting %>%
     summarize(across(bicycle:car, ~ sum(.x) / n() * 100)) %>%
     pivot_longer(bicycle:car, names_to = "items", values_to = "percent")
 ```
+
+## Live notes 
+
+### [**https://edu.nl/7fdgj**](https://edu.nl/7fdgj)
 
 ## Why R? {.center}
 
