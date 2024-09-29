@@ -124,7 +124,7 @@ percent_items %>%
 
 Things to look forward to:
 
-![Artwork by [@allison_horst](https://twitter.com/allison_horst)](img/rmarkdown_wizards.png)
+![Artwork by [@allison_horst](https://twitter.com/allison_horst)](img/many-qmd-to-output.png)
 
 
 ## Naming conventions
@@ -164,14 +164,14 @@ Stick to the same convention
 
 ## Exercise 1
 
-⏰ **5 mins**
+⏰ **3 mins**
 
 Create two variables `r_length` and `r_width` and assign them values.
 
 Create a third variable `r_area` and give it a value by multiplying `r_length`
 and `r_width`.
 
-`r countdown::countdown(minutes = 5, color_running_background  = "lightgreen", color_running_text = "black", color_finished_background = "red", color_finished_text =  "grey30")`
+`r countdown::countdown(minutes = 3, color_running_background  = "lightgreen", color_running_text = "black", color_finished_background = "red", color_finished_text =  "grey30")`
 
 . . .
 
@@ -186,13 +186,13 @@ r_area <- r_length * r_width
 
 ## Exercise 2
 
-⏰ **5 mins**
+⏰ **4 mins**
 
 Type `?round` into the **console** to open the help page for the `round()` function.
 
 Find the appropriate function to round `1.624` down to the nearest integer.
 
-`r countdown::countdown(minutes = 5, color_running_background  = "lightgreen", color_running_text = "black", color_finished_background = "red", color_finished_text =  "grey30")`
+`r countdown::countdown(minutes = 4, color_running_background  = "lightgreen", color_running_text = "black", color_finished_background = "red", color_finished_text =  "grey30")`
 
 . . .
 
@@ -231,7 +231,7 @@ floor(1.624)
 
 ## Exercise 3 {.smaller .scrollable}
 
-⏰ **10 mins**
+⏰ **8 mins**
 
 What will happen in each of the examples below?
 
@@ -246,7 +246,7 @@ tricky <- c(1, 2, 3, "4")
 
 Why does this happen?
 
-`r countdown::countdown(minutes = 10, color_running_background  = "lightgreen", color_running_text = "black", color_finished_background = "red", color_finished_text =  "grey30")`
+`r countdown::countdown(minutes = 8, color_running_background  = "lightgreen", color_running_text = "black", color_finished_background = "red", color_finished_text =  "grey30")`
 
 . . .
 
@@ -269,7 +269,7 @@ tricky
 
 ## Exercise 4
 
-⏰ **5 mins**
+⏰ **4 mins**
 
 How many values in `combined_logical` are `"TRUE"` (as a string)?
 
@@ -280,7 +280,7 @@ char_logical <- c("a", "b", "c", TRUE)
 combined_logical <- c(num_logical, char_logical)
 ```
 
-`r countdown::countdown(minutes = 5, color_running_background  = "lightgreen", color_running_text = "black", color_finished_background = "red", color_finished_text =  "grey30")`
+`r countdown::countdown(minutes = 4, color_running_background  = "lightgreen", color_running_text = "black", color_finished_background = "red", color_finished_text =  "grey30")`
 
 . . .
 
@@ -296,7 +296,7 @@ with `char_logical`.
 
 ## Exercise 5 {.smaller}
 
-⏰ **10 mins**
+⏰ **8 mins**
 
 1. Using this vector of rooms, create a new vector with the NAs removed:
 
@@ -308,7 +308,7 @@ rooms <- c(1, 2, 1, NA, 3, 1, 3, 2, 8, NA, 1)
 
 3. Use R to calculate how many elements of `rooms` are larger than 2.
 
-`r countdown::countdown(minutes = 5, color_running_background  = "lightgreen", color_running_text = "black", color_finished_background = "red", color_finished_text =  "grey30")`
+`r countdown::countdown(minutes = 8, color_running_background  = "lightgreen", color_running_text = "black", color_finished_background = "red", color_finished_text =  "grey30")`
 
 . . .
 
