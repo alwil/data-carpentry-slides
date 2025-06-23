@@ -22,3 +22,5 @@ branch (e.g., changes to the Data Carpentry materials).
 Code for slides is licensed under [The Unlicense](LICENSE)
 
 Images by Allison Horst are licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode.en).
+
+This repository is a fork from: [bbartholdy/data-carpentry-slides](bbartholdy/data-carpentry-slides). 
