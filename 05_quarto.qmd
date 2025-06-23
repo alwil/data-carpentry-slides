@@ -1,12 +1,12 @@
 ---
 title: "Getting Started with Quarto"
-date: '2024-06-21'
+date: '2024-10-23'
 engine: knitr
 ---
 
 ## What is Quarto? {.smaller}
 
-Quarto is a free, open-source scientific and tecnical publishing system.
+Quarto is a free, open-source scientific and technical publishing system.
 
 Quarto allows you to **seamlessly combine executable R code, its output, and text** in a single document.
 
